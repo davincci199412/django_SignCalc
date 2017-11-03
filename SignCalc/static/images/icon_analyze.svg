@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="18px" viewBox="0 0 15 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_analyze</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="7.40500021" cy="7.40500021" r="7.40500021"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iPad-Pro-Portrait" transform="translate(-822.000000, -511.000000)">
+            <g id="icon_analyze" transform="translate(822.000000, 511.000000)">
+                <g id="Oval-4">
+                    <g id="path-2-Clipped">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="path-2"></g>
+                        <circle id="path-2" stroke="#FFFFFF" stroke-width="2.5134546" mask="url(#mask-2)" cx="7.40500021" cy="7.40500021" r="7.40500021"></circle>
+                    </g>
+                </g>
+                <path d="M12.028849,16.9658323 C12.028849,17.3131056 12.302224,17.5946262 12.6548642,17.5946262 L12.82068,17.5946262 C13.1664186,17.5946262 13.4466952,17.3189224 13.4466952,16.9658323 L13.4466952,12.4666224 L12.028849,12.4666224 L12.028849,16.9658323 Z" id="Path-2" fill="#FFFFFF" fill-rule="nonzero" transform="translate(12.737772, 15.030624) rotate(-35.000000) translate(-12.737772, -15.030624) "></path>
+                <path d="M7.36476107,8.85058182 L8.23202337,8.92379469 L7.83389611,8.47498699 L7.36476107,8.85058182 Z M7.68586921,10.1935841 L12.1070311,6.6539518 C12.3552769,6.45520342 12.3889296,6.08892378 12.1891599,5.84436781 L12.1336366,5.7763968 C11.9307493,5.52802429 11.5658631,5.48713198 11.3151826,5.6878296 L7.83389611,8.47498699 L5.69116297,6.05949025 L1.04142177,9.83521995 L1.83842192,10.7971792 L5.54868055,7.7843376 L7.68586921,10.1935841 Z" id="Path-3" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <polygon id="Path-3" fill="#FFFFFF" fill-rule="nonzero" opacity="0.400000006" points="9.31791905 14.0428128 12.1323607 12.3505308 12.1323607 6.03565846 7.83273895 9.19368253 5.69116297 6.77949025 1.04142177 10.5552199 1.83842192 11.5171792 5.08673693 13.496372"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

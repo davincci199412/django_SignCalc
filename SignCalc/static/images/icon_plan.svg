@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="17px" viewBox="0 0 16 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_plan</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0.30769231" width="16" height="15.6923077" rx="2"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iPad-Pro-Portrait" transform="translate(-786.000000, -546.000000)">
+            <g id="icon_plan" transform="translate(786.000000, 546.000000)">
+                <g id="Rectangle-5" transform="translate(0.000000, 1.000000)">
+                    <g id="path-2-Clipped">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="path-2"></g>
+                        <rect id="path-2" stroke="#FFFFFF" stroke-width="2.66666667" mask="url(#mask-2)" x="0" y="0.30769231" width="16" height="15.6923077" rx="2"></rect>
+                    </g>
+                </g>
+                <rect id="Rectangle-5" fill="#FFFFFF" fill-rule="nonzero" opacity="0.399999976" x="0" y="1.30769231" width="16" height="4.25" rx="2"></rect>
+                <rect id="Rectangle-5" fill="#FFFFFF" fill-rule="nonzero" x="3.92459209" y="7.84615385" width="1.6" height="5.23076923" rx="0.8"></rect>
+                <rect id="Rectangle-5" fill="#FFFFFF" fill-rule="nonzero" x="7.12459209" y="7.84615385" width="1.6" height="5.23076923" rx="0.8"></rect>
+                <rect id="Rectangle-5" fill="#FFFFFF" fill-rule="nonzero" x="10.3245921" y="7.84615385" width="1.6" height="5.23076923" rx="0.8"></rect>
+                <rect id="Rectangle-6" fill="#FFFFFF" fill-rule="nonzero" x="3.92459209" y="0" width="1.6" height="4.70769231" rx="0.8"></rect>
+                <rect id="Rectangle-6" fill="#FFFFFF" fill-rule="nonzero" x="10.5092476" y="0" width="1.6" height="4.70769231" rx="0.8"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
