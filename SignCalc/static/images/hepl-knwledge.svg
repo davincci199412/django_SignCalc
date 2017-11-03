@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="65px" height="60px" viewBox="0 0 65 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>grad baby</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-807.000000, -512.000000)">
+            <g id="Resources-Dropdown" transform="translate(120.000000, 54.000000)">
+                <g id="Group-29" transform="translate(687.000000, 458.000000)">
+                    <g id="Group-28">
+                        <g id="grad-baby">
+                            <rect id="Rectangle-8" fill="#446F94" x="0" y="0" width="65" height="60" rx="3"></rect>
+                            <path d="M24.279,29.649 L24.279,37.115 C24.279,37.115 26.985,36.176 29.63,37.088 C32.275,38 36.742,40.69 36.742,40.69 C36.742,40.69 38.109,38.467 39.706,37.44 C41.302,36.413 42.532,35.626 42.532,35.626 L42.532,29.854 L37.607,34.203 L24.279,29.649 Z" id="Shape" fill="#FFFFFF"></path>
+                            <polygon id="Shape" fill="#FFFFFF" points="20.573 27.681 37.438 33.088 48.17 23.507 30.718 18.48 17 26.536 19.176 27.232 19.176 33.356 18.209 33.356 18.209 37.438 21.593 37.438 21.593 33.356 20.573 33.356"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

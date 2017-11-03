@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="20px" viewBox="0 0 16 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_track</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="8" cy="8" r="8"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iPad-Pro-Portrait" transform="translate(-604.000000, -563.000000)">
+            <g id="icon_track" transform="translate(604.000000, 563.000000)">
+                <g id="Oval-4" transform="translate(0.000000, 4.000000)">
+                    <g id="path-2-Clipped">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="path-2"></g>
+                        <circle id="path-2" stroke="#FFFFFF" stroke-width="2.66666667" mask="url(#mask-2)" cx="8" cy="8" r="8"></circle>
+                    </g>
+                </g>
+                <path d="M14.9540549,8.11212711 C13.6128878,5.63935293 10.9942934,3.96033058 7.9835423,3.96033058 L7.9835423,11.8942149 L14.9540549,8.11212711 Z" id="Oval-4" fill="#FFFFFF" fill-rule="nonzero" opacity="0.400000006"></path>
+                <rect id="Rectangle-2" fill="#FFFFFF" fill-rule="nonzero" x="5.33333333" y="0.666666667" width="5.33333333" height="2" rx="0.666666667"></rect>
+                <circle id="Oval-6" fill="#FFFFFF" fill-rule="nonzero" cx="14.6666667" cy="3.33333333" r="1.33333333"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

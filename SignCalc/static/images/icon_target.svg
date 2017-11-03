@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_target</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="6" cy="6" r="5.33333333"></circle>
+        <circle id="path-3" cx="8" cy="8" r="8"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iPad-Pro-Portrait" transform="translate(-778.000000, -380.000000)">
+            <g id="icon_target" transform="translate(778.000000, 380.000000)">
+                <g id="Oval-4" transform="translate(2.000000, 2.000000)">
+                    <g id="path-2-Clipped">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="path-2"></g>
+                        <circle id="path-2" stroke="#FFFFFF" stroke-width="2.66666667" mask="url(#mask-2)" cx="6" cy="6" r="5.33333333"></circle>
+                    </g>
+                </g>
+                <path d="M13.3132931,0.899673282 L15.0097902,4.3094595 C15.1719706,4.63542557 15.0042742,4.89967328 14.6461779,4.89967328 L11.9804082,4.89967328 C11.6174103,4.89967328 11.4537217,4.63722211 11.6167959,4.3094595 L13.3132931,0.899673282 Z" id="Triangle" fill="#FFFFFF" fill-rule="nonzero" transform="translate(13.312730, 2.899673) rotate(-133.000000) translate(-13.312730, -2.899673) "></path>
+                <g id="Oval-4">
+                    <g id="path-4-Clipped">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <g id="path-4"></g>
+                        <circle id="path-4" stroke="#FFFFFF" stroke-width="2.66666667" mask="url(#mask-4)" cx="8" cy="8" r="8"></circle>
+                    </g>
+                </g>
+                <circle id="Oval-4" fill="#FFFFFF" fill-rule="nonzero" opacity="0.399999976" cx="8" cy="8" r="2.66666667"></circle>
+                <path d="M13.8334101,3.19956639 L12.8887579,2.25860418 L7.55177391,7.5269786 C7.28906629,7.78630898 7.28574865,8.2053678 7.54842582,8.46701889 L7.54842582,8.46701889 C7.80928434,8.72685843 8.22762753,8.73328391 8.49642617,8.46794081 L13.8334101,3.19956639 Z" id="Path-5" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
